@@ -1,4 +1,4 @@
 /**
- * Random package info
+ * Random package info.
  */
 package com.example;
