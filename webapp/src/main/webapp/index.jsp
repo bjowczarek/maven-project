@@ -1,1 +1,1 @@
-Hello, Jenkins!
+Hello, Automated Jenkins!
